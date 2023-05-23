@@ -1,7 +1,7 @@
 import { makeProject } from "@motion-canvas/core";
 
-import example from "./scenes/example?scene";
+import reduxFlow from "./scenes/reduxFlow?scene";
 
 export default makeProject({
-  scenes: [example],
+  scenes: [reduxFlow],
 });
